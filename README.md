@@ -52,8 +52,7 @@ Advanced News Hub is a **feature-rich desktop application** that aggregates, cat
 
 ---
 
-### 📜 **License**  
-Open-source (MIT)  
+
 
 ### 🌐 **Demo**  
 <img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/810f9a59-d930-4f8a-b0c3-daba96604651" />
